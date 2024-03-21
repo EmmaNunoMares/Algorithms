@@ -1,0 +1,8 @@
+
+l
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¨¥ÔÍ
+@
+java:S1197
+"*Move the array designators [] to the type.(±öÙ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À†©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù­Èıÿÿÿÿ

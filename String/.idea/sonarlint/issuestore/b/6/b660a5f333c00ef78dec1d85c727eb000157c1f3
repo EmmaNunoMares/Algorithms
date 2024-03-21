@@ -1,0 +1,15 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "test".(ùç¥êÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ìŸ´²
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º÷¡‚ûÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(ùç¥êÿÿÿÿÿ
+D
+java:S1481")Remove this unused "test" local variable.(ùç¥êÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ª¨ìºøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ª¨ìºøÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ
